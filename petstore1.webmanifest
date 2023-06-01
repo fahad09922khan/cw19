@@ -1,0 +1,16 @@
+{
+    "name": "My Web App",
+    "short_name": "Web App",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [{
+        "src": "icon.png",
+        "sizes": "192x192",
+        "type": "icon-store-512.png"
+    }],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#B12A34"
+}
